@@ -16,7 +16,6 @@ Página web agenda
 - usuario: jorge@gmail.com
 - contraseña: secret
 
-
 ### APIS
 
 - Full Calendar: https://fullcalendar.io/
