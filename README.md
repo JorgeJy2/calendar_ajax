@@ -1,4 +1,4 @@
-# Mapas angular :calendar: <img alt="logo" width="128px" align="right" src="https://res.cloudinary.com/djdcezwon/image/upload/v1574382289/public_apps/calendar/calendar_gp0oor.png">
+# Agenda AJAX :calendar: <img alt="logo" width="128px" align="right" src="https://res.cloudinary.com/djdcezwon/image/upload/v1574382289/public_apps/calendar/calendar_gp0oor.png">
 
 Página web agenda
 
@@ -11,6 +11,11 @@ Página web agenda
 - PHP
 - JavaScript
 - AJAX y drag and drop
+
+### Acceso
+- usuario: jorge@gmail.com
+- contraseña: secret
+
 
 ### APIS
 
